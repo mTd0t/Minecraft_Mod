@@ -19,7 +19,7 @@ import org.slf4j.Logger;
 public class TutorialMod
 
 {
-    //not so important comment
+    //very important commend
     public static final String MOD_ID = "tutorialmod";
     private static final Logger LOGGER = LogUtils.getLogger();
     public TutorialMod()
